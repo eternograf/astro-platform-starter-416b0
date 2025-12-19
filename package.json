@@ -24,7 +24,7 @@
     "marked-shiki": "^1.2.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
-    "tailwindcss": "^4.0.14",
+    "tailwindcss": "^4.1.17",
     "unique-names-generator": "^4.7.1"
   },
   "devDependencies": {
